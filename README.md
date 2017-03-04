@@ -1,2 +1,2 @@
-# pakistan.github.io
+# http://pakistan.github.io
 Pakistan tourist attractions
